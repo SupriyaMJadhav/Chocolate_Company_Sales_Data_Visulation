@@ -1,6 +1,6 @@
 # Chocolate_Company_Sales_Data_Visulation
 
-# Chocolate Company Sales: A Year in Sweet Bites
+
 
 This report unveils our chocolate sales performance. Let's explore the key trends and top flavors!
 
